@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shntanuuhere/sqlmonitor/static/css/main.c4fe2eff.css",
+    "main.js": "/shntanuuhere/sqlmonitor/static/js/main.9e3a1c59.js",
+    "static/js/453.ae7cbbf7.chunk.js": "/shntanuuhere/sqlmonitor/static/js/453.ae7cbbf7.chunk.js",
+    "index.html": "/shntanuuhere/sqlmonitor/index.html",
+    "main.c4fe2eff.css.map": "/shntanuuhere/sqlmonitor/static/css/main.c4fe2eff.css.map",
+    "main.9e3a1c59.js.map": "/shntanuuhere/sqlmonitor/static/js/main.9e3a1c59.js.map",
+    "453.ae7cbbf7.chunk.js.map": "/shntanuuhere/sqlmonitor/static/js/453.ae7cbbf7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4fe2eff.css",
+    "static/js/main.9e3a1c59.js"
+  ]
+}
